@@ -1,0 +1,14 @@
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.AssemblyInfoInputs.cache
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.AssemblyInfo.cs
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.csproj.CoreCompileInputs.cache
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\bin\Debug\net8.0\02_basics.exe
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\bin\Debug\net8.0\02_basics.deps.json
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\bin\Debug\net8.0\02_basics.runtimeconfig.json
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\bin\Debug\net8.0\02_basics.dll
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\bin\Debug\net8.0\02_basics.pdb
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.dll
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\refint\02_basics.dll
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.pdb
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\02_basics.genruntimeconfig.cache
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\02_basics\obj\Debug\net8.0\ref\02_basics.dll

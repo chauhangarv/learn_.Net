@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chauh\\OneDrive\\Desktop\\Coding\\.Net\\Fibonacci\\03_Fibonacci.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chauh\\OneDrive\\Desktop\\Coding\\.Net\\Fibonacci\\03_Fibonacci.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chauh\\OneDrive\\Desktop\\Coding\\.Net\\Fibonacci\\03_Fibonacci.csproj",
+        "projectName": "03_Fibonacci",
+        "projectPath": "C:\\Users\\chauh\\OneDrive\\Desktop\\Coding\\.Net\\Fibonacci\\03_Fibonacci.csproj",
+        "packagesPath": "C:\\Users\\chauh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chauh\\OneDrive\\Desktop\\Coding\\.Net\\Fibonacci\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chauh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

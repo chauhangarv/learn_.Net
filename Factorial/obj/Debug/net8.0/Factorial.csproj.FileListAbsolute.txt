@@ -1,0 +1,15 @@
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.sourcelink.json
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\chauh\OneDrive\Desktop\Coding\.Net\Factorial\obj\Debug\net8.0\ref\Factorial.dll
